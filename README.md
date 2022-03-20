@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @21Ovi
 - 👀 I’m interested in Coding(JavaScript), Intented to study and work with AI
-- 🌱 I’m currently learning JavaScript,ReactJs,NodeJs,Cyber Security,CEH,BCA
+- 🌱 I’m currently learning DataScience,Artificial Intelligence ,BCA
+- 🏁I have completed studying JavaScript,ReactJs,NodeJs,Cyber Security,CEH-V6(Certified Ethical Hacking).... and lot more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ansariovesh@yahoo.in
 
