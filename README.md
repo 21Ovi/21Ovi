@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21ovi" alt="21ovi" /></a> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React**,**Scikit-Learn**
 
 - 🌱 I’m currently learning **TensorFlow, Nextjs**
 
