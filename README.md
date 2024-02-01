@@ -1,50 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ovesh Ansari</h1>
-<h3 align="center">CS Student at Manipal University | Full Stack Developer | Deep Learning Enthusiast</h3>
+<h3 align="center">I am CS Student at Manipal University, A Full Stack Developer have a strong foundation of software-related knowledge to work in a better way.</h3>
 
-<p align="center">
-    <a href="https://github.com/21Ovi">
-        <img src="https://komarev.com/ghpvc/?username=21ovi&color=blueviolet&style=flat-square"
-            alt="21ovi profile views" />
-    </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=21ovi&label=Profile%20views&color=0e75b6&style=flat" alt="21ovi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=21ovi" alt="21ovi" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/21Ovi](https://github.com/21Ovi)
+
+- 📫 How to reach me **ansariovesh@yahoo.in**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/](https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/)
+
+- ⚡ Fun fact **I think I want to Learn everything**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/oveshansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/oveshansari" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-    <a href="https://github.com/21Ovi">
-        <img src="https://github-profile-trophy.vercel.app/?username=21ovi&theme=nord&column=7" alt="21ovi trophies" />
-    </a>
-</div>
-
-## 🚀 About Me
-
-<p align="center">
-    I'm a CS student at Manipal University with a focus on Full Stack Development and Deep Learning. Skilled in both
-    front-end and back-end technologies, proficient in creating scalable web applications and deep learning models.
-    Continuously exploring Advanced Web Technologies and AI/ML domains. Check out my projects and portfolio at <a
-        href="https://github.com/21Ovi">My GitHub</a>.
-</p>
-
-<p align="center">
-    Reach me at <a href="mailto:ansariovesh@yahoo.in">ansariovesh@yahoo.in</a> |
-    Connect on <a href="https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/">LinkedIn</a>
-</p>
-
-## 🤝 Connect with Me
-
-<p align="center">
-<p align="center">
-    <a href="https://www.linkedin.com/in/mohammad-ovesh-ansari-a3316818a/" target="_blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/oveshansari" target="_blank"><img
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-            alt="Kaggle" height="30" width="40" /></a>
-</p>
-</p>
-
-## 🛠 Languages and Frameworks
-
-<p align="center">
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> <a
         href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -74,14 +50,10 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
             width="40" height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a>
-</p>
+            alt="typescript" width="40" height="40" /> </a> </p>
 
-## 📈 My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=21ovi&show_icons=true&locale=en&layout=compact" alt="21ovi" /></p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=21ovi&show_icons=true&locale=en&layout=compact"
-        alt="21ovi" />
-    <img src="https://github-readme-stats.vercel.app/api?username=21ovi&show_icons=true&locale=en" alt="21ovi" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=21ovi&" alt="21ovi" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=21ovi&show_icons=true&locale=en" alt="21ovi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=21ovi&" alt="21ovi" /></p>
