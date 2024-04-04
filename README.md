@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ovesh Ansari</h1>
-<h3 align="center">I am CS Student at Manipal University, A Full Stack Developer have a strong foundation of software-related knowledge to work in a better way.</h3>
+<h3 align="center">As a Full Stack Developer with a solid foundation in software engineering principles and a seasoned practitioner in Machine Learning/AI, I possess a comprehensive skill set that enhances my ability to create robust, scalable solutions, and innovative AI-driven applications. Proficient in JavaScript and Python, my dedication to continuous learning and professional growth is showcased through the diverse range of projects featured on this GitHub profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=21ovi&label=Profile%20views&color=0e75b6&style=flat" alt="21ovi" /> </p>
 
